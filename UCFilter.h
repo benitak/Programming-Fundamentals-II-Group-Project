@@ -1,6 +1,7 @@
 //UCFilter.h for Programming Fundamentals II project.
 //Authors (of this file):
-// Khalid Hourani
+//Khalid Hourani
+//Todd Oakes
 
 #pragma once
 
