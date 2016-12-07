@@ -15,7 +15,7 @@ public:
 	void doFilter(ifstream &in, ofstream &out);
 };
 
-void FileFilter::doFilter(ifsteam &in, ofstream &out)
+void FileFilter::doFilter(ifstream &in, ofstream &out)
 {
 	char ch;
 	char transCh;
